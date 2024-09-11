@@ -1,0 +1,21 @@
+{
+"admob_banner": "ca-app-pub-2299291161271404/9754757705",
+  "admob_inter": "ca-app-pub-2299291161271404/8248801003",
+  "admob_inter_splash": "ca-app-pub-2299291161271404/5554392896",
+  "admob_reward": "ca-app-pub-2299291161271404/4273100812",
+  "admob_reward_interstitial": "ca-app-pub-2299291161271404/2928229550",
+  "admob_small_native": "ca-app-pub-2299291161271404/7128594361",
+  "admob_medium_native": "ca-app-pub-2299291161271404/1628855679",
+  "admob_manual_native": "ca-app-pub-2299291161271404/4241311221",
+  "admob_appopen": "ca-app-pub-2299291161271404/6935719335",
+  "applovin_banner": "39ee4eaebeddcbbe",
+  "applovin_inter": "b6643fac18bcf8df",
+  "applovin_inter_splash": "d34430ab07d23b15",
+  "applovin_reward": "4f779e6d2581031d",
+  "applovin_small_native": "5e977d8f614079fe",
+  "applovin_medium_native": "caa8bb0708f0f585",
+  "applovin_manual_native": "ebd629eba246c6d1",
+  "applovin_appopen": "0cddd0165806a7d8",
+  "applovin_id": "",
+  "splash_mode": "admob"
+}
